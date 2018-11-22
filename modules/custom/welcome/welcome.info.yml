@@ -1,0 +1,7 @@
+name: Welcome 
+description: 'Display welcome when user logged in.'
+type: module
+package: Custom
+
+version: '8.9.1'
+core: '8.x'
